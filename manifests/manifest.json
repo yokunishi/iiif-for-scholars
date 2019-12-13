@@ -1,175 +1,4170 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/83fed239-c625-4f25-be08-506f3c25e024.json",
-	"@type": "sc:Manifest",
-	"label": "Ashmolean Museum Evans Architectural Plans D/4 with a secret van Gogh connection",
-	"description": "[Sketch plan of Room of the Stone Bench with reference to Shafts A and B]",
+	"viewingDirection": "left-to-right",
 	"metadata": [
 		{
-			"label": "Homepage",
-			"value": "<span><a href=\"https://digital.bodleian.ox.ac.uk/inquire/p/83fed239-c625-4f25-be08-506f3c25e024\">View on Digital Bodleian</a></span>"
+			"label": "Uniform Title",
+			"value": "鷺流狂言本"
 		},
 		{
-			"label": "Title",
-			"value": "[Sketch plan of Room of the Stone Bench with reference to Shafts A and B]"
+			"label": "Origin Place",
+			"value": "Japan"
 		},
 		{
-			"label": "Description",
-			"value": "Original pencil"
+			"label": "Provenance",
+			"value": "<p>Acquired from William George Aston in 1911.</p> <p>Book bears ex-libris stamp of Ernest Mason Satow. </p>"
+		},
+		{
+			"label": "Physical Location",
+			"value": "Cambridge University Library"
 		},
 		{
 			"label": "Extent",
-			"value": "630x710 mm"
+			"value": "大209冊・半1冊; 大本"
 		},
 		{
-			"label": "Collection",
-			"value": "History and Politics"
+			"label": "Funding",
+			"value": "Digitized with the support of the Art Reseach Center, Ritsumeikan University."
 		},
 		{
-			"label": "Collection",
-			"value": "Archives and Modern Manuscripts"
+			"label": "Abstract",
+			"value": "<p style='text-align: justify;'></p>"
 		},
 		{
-			"label": "Collection",
-			"value": "Ashmolean Museum"
+			"label": "Former Owner(s)",
+			"value": "Aston, William George, 1841-1911; Satow, Ernest Mason, 1843-1929"
 		},
 		{
-			"label": "Collection",
-			"value": "Arthur Evans Archive (Knossos Excavations)"
+			"label": "Date of Creation",
+			"value": "幕末写 ()"
 		},
 		{
-			"label": "Subject",
-			"value": "Knossos (Extinct City)--Drains"
+			"label": "Title",
+			"value": "Kyūryū Kyōgenbon"
 		},
 		{
-			"label": "Subject",
-			"value": "Evans, Arthur  Sir  1851-1941"
+			"label": "Material",
+			"value": "<p>Paper</p>"
 		},
 		{
-			"label": "Other Identifier",
-			"value": "Evans Architectural Plans D/4"
+			"label": "Classmark",
+			"value": "FJ.709.5"
 		},
 		{
-			"label": "Record Created",
-			"value": "2015-07-10T00:00:00Z"
+			"label": "Note(s)",
+			"value": "Catalogue number 1043 in Hayashi and Kornicki, Early Japanese books in Cambridge University Library.; Published:"
 		},
 		{
-			"label": "Holding Institution",
-			"value": "Ashmolean Museum, University of Oxford"
+			"label": "Subject(s)",
+			"value": "Manuscripts, Japanese"
+		},
+		{
+			"label": "Format",
+			"value": "Codex"
+		},
+		{
+			"label": "Language(s)",
+			"value": "Japanese"
+		},
+		{
+			"label": "Bibliography",
+			"value": "<div style='list-style-type: disc;'><div style='display: list-item; margin-left: 20px;'>鷲流(仁左衛門系)狂言200番、間狂言5番。別冊「能狂言目録」を附す。</div></div><br />"
 		}
 	],
-	"rendering": {
-		"@id": "https://digital.bodleian.ox.ac.uk/inquire/p/83fed239-c625-4f25-be08-506f3c25e024",
-		"label": "View on Digital Bodleian",
-		"format": "text/html"
-	},
-	"attribution": "http://creativecommons.org/licenses/by-nc-sa/3.0/.",
-	"logo": {
-		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/2bf5b72e-993a-4f7b-97b8-421371e0ff99/full/256,/0/default.jpg",
-		"service": {
-			"@context": "http://iiif.io/api/image/2/context.json",
-			"profile": "http://iiif.io/api/image/2/level1.json",
-			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/2bf5b72e-993a-4f7b-97b8-421371e0ff99"
+	"@type": "sc:Manifest",
+	"attribution": "Provided by Cambridge University Library. Zooming image © Cambridge University Library, All rights reserved.  Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)  This metadata is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.",
+	"structures": [
+		{
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/1",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/2",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/3",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/4",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/5",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/6",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/7",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/8",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/9",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/10",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/11",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/12",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/13",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/14",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/15",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/16",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/17",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/18",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/19",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/20",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/21",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/22",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/23",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/24",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/25",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/26",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/27",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/28",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/29",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/30",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/31",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/32",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/33",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/34",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/35",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/36",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/37",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/38",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/39",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/40",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/41",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/42",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/43",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/44",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/45",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/46",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/47",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/48",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/49",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/50",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/51",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/52",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/53",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/54",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/55",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/56",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/57",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/58",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/59",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/60",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/61",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/62",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/63",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/64",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/65",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/66",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/67",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/68",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/69",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/70",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/71",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/72",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/73",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/74",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/75",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/76",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/77",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/78",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/79",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/80",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/81",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/82",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/83",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/84",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/85",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/86",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/87",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/88",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/89",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/90",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/91",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/92",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/93",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/94",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/95",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/96",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/97",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/98",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/99",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/100",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/101",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/102",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/103",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/104",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/105",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/106",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/107",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/108",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/109",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/110",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/111",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/112",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/113",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/114",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/115",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/116",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/117",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/118",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/119",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/120",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/121",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/122",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/123",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/124",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/125",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/126",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/127",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/128",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/129",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/130",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/131",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/132",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/133",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/134",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/135",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/136",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/137",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/138",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/139",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/140",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/141",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/142",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/143",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/144",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/145",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/146",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/147",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/148",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/149"
+			],
+			"@type": "sc:Range",
+			"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/range/ITEM-1",
+			"label": "Kyūryū Kyōgenbon"
 		}
-	},
-	"thumbnail": {
-		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/83fed239-c625-4f25-be08-506f3c25e024/full/256,/0/default.jpg",
-		"service": {
-			"@context": "http://iiif.io/api/image/2/context.json",
-			"profile": "http://iiif.io/api/image/2/level1.json",
-			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/83fed239-c625-4f25-be08-506f3c25e024"
-		}
-	},
-	"viewingHint": "individuals",
+	],
+	"description": "<p style='text-align: justify;'></p>",
+	"logo": "https://cudl.lib.cam.ac.uk/mirador-ui/cu_logo.png",
+	"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005",
+	"label": "Kyūryū Kyōgenbon (FJ.709.5)",
 	"sequences": [
 		{
-			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/sequence/83fed239-c625-4f25-be08-506f3c25e024_default.json",
-			"@type": "sc:Sequence",
-			"label": "Default",
 			"canvases": [
 				{
-					"@id": "http://5fb0c5b1-5ade-4d7a-96e4-6ae2195243a6",
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00001.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5000,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00001.jp2",
+								"height": 3902
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/1"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5000,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/1",
+					"label": "1",
+					"height": 3902
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00002.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4951,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00002.jp2",
+								"height": 3869
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/2"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4951,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/2",
+					"label": "2",
+					"height": 3869
+				},
+				{
+					"@id": "http://b75371a4-2d44-4b6d-81ee-2d7273c6a50a",
 					"@type": "sc:Canvas",
 					"label": "Empty canvas",
-					"height": 2550,
-					"width": 2259,
+					"height": 6980,
+					"width": 5508,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://4a404b04-0c28-4ca2-9ce4-24221c1d5060",
+							"@id": "http://e5c274da-8991-4b15-85f0-84f9d6f5147b",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://ids.lib.harvard.edu/ids/iiif/47174892/full/full/0/default.jpg",
+								"@id": "https://iiif.archivelab.org/iiif/alberteinstein_03_reel03$0/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://ids.lib.harvard.edu/ids/iiif/47174892",
+									"@id": "https://iiif.archivelab.org/iiif/alberteinstein_03_reel03$0",
 									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"supports": [
-												"canonicalLinkHeader",
-												"profileLinkHeader",
-												"mirroring",
-												"rotationArbitrary",
-												"regionSquare",
-												"sizeAboveFull"
-											],
-											"qualities": [
-												"default",
-												"bitonal",
-												"gray",
-												"color"
-											],
-											"formats": [
-												"jpg",
-												"tif",
-												"png",
-												"gif",
-												"webp"
-											]
-										}
+										"http://iiif.io/api/image/2/level2.json"
 									]
 								},
-								"height": 2550,
-								"width": 2259
+								"height": 6980,
+								"width": 5508
 							},
-							"on": "http://5fb0c5b1-5ade-4d7a-96e4-6ae2195243a6"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/83fed239-c625-4f25-be08-506f3c25e024.json",
-					"@type": "sc:Canvas",
-					"label": "Whole page",
-					"width": 14800,
-					"height": 8440,
-					"images": [
-						{
-							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/83fed239-c625-4f25-be08-506f3c25e024.json",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/83fed239-c625-4f25-be08-506f3c25e024.json",
-							"resource": {
-								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/83fed239-c625-4f25-be08-506f3c25e024",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"width": 14800,
-								"height": 8440,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"profile": "http://iiif.io/api/image/2/level1.json",
-									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/83fed239-c625-4f25-be08-506f3c25e024"
-								}
-							}
+							"on": "http://b75371a4-2d44-4b6d-81ee-2d7273c6a50a"
 						}
 					]
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00005.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4959,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00005.jp2",
+								"height": 3902
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/5"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4959,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/5",
+					"label": "5",
+					"height": 3902
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00006.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4976,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00006.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/6"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4976,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/6",
+					"label": "6",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00003.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4980,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00003.jp2",
+								"height": 3898
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/3"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4980,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/3",
+					"label": "3",
+					"height": 3898
+				},
+				{
+					"@id": "http://f7ebbc1a-91e2-4d89-8c47-3dca173a8d82",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00004.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4960,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00004.jp2",
+								"height": 3909
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/4"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4960,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/4",
+					"label": "4",
+					"height": 3909,
+					"metadata": [
+						{
+							"label": "Label",
+							"value": "Value"
+						},
+						{
+							"label": "Label",
+							"value": "Value"
+						}
+					]
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00007.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4939,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00007.jp2",
+								"height": 3892
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/7"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4939,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/7",
+					"label": "7",
+					"height": 3892
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00008.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4965,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00008.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/8"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4965,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/8",
+					"label": "8",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00009.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4944,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00009.jp2",
+								"height": 3890
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/9"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4944,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/9",
+					"label": "9",
+					"height": 3890
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00010.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4980,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00010.jp2",
+								"height": 3898
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/10"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4980,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/10",
+					"label": "10",
+					"height": 3898
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00011.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4977,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00011.jp2",
+								"height": 3912
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/11"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4977,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/11",
+					"label": "11",
+					"height": 3912
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00012.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4997,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00012.jp2",
+								"height": 3902
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/12"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4997,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/12",
+					"label": "12",
+					"height": 3902
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00013.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 4999,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00013.jp2",
+								"height": 3890
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/13"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 4999,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/13",
+					"label": "13",
+					"height": 3890
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00014.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5001,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00014.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/14"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5001,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/14",
+					"label": "14",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00015.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5041,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00015.jp2",
+								"height": 3894
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/15"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5041,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/15",
+					"label": "15",
+					"height": 3894
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00016.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5020,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00016.jp2",
+								"height": 3891
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/16"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5020,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/16",
+					"label": "16",
+					"height": 3891
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00017.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5041,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00017.jp2",
+								"height": 3886
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/17"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5041,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/17",
+					"label": "17",
+					"height": 3886
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00018.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5043,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00018.jp2",
+								"height": 3898
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/18"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5043,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/18",
+					"label": "18",
+					"height": 3898
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00019.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5054,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00019.jp2",
+								"height": 3877
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/19"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5054,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/19",
+					"label": "19",
+					"height": 3877
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00020.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5075,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00020.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/20"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5075,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/20",
+					"label": "20",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00021.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5040,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00021.jp2",
+								"height": 3908
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/21"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5040,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/21",
+					"label": "21",
+					"height": 3908
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00022.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5058,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00022.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/22"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5058,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/22",
+					"label": "22",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00023.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5053,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00023.jp2",
+								"height": 3913
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/23"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5053,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/23",
+					"label": "23",
+					"height": 3913
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00024.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5060,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00024.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/24"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5060,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/24",
+					"label": "24",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00025.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5071,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00025.jp2",
+								"height": 3916
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/25"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5071,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/25",
+					"label": "25",
+					"height": 3916
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00026.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5081,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00026.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/26"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5081,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/26",
+					"label": "26",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00027.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5077,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00027.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/27"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5077,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/27",
+					"label": "27",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00028.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5119,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00028.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/28"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5119,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/28",
+					"label": "28",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00029.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5104,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00029.jp2",
+								"height": 3901
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/29"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5104,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/29",
+					"label": "29",
+					"height": 3901
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00030.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5096,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00030.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/30"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5096,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/30",
+					"label": "30",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00031.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5089,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00031.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/31"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5089,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/31",
+					"label": "31",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00032.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5083,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00032.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/32"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5083,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/32",
+					"label": "32",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00033.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5091,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00033.jp2",
+								"height": 3921
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/33"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5091,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/33",
+					"label": "33",
+					"height": 3921
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00034.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5079,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00034.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/34"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5079,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/34",
+					"label": "34",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00035.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5094,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00035.jp2",
+								"height": 3927
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/35"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5094,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/35",
+					"label": "35",
+					"height": 3927
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00036.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5096,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00036.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/36"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5096,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/36",
+					"label": "36",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00037.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5083,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00037.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/37"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5083,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/37",
+					"label": "37",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00038.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5082,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00038.jp2",
+								"height": 3917
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/38"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5082,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/38",
+					"label": "38",
+					"height": 3917
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00039.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5090,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00039.jp2",
+								"height": 3927
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/39"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5090,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/39",
+					"label": "39",
+					"height": 3927
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00040.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5094,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00040.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/40"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5094,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/40",
+					"label": "40",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00041.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5103,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00041.jp2",
+								"height": 3920
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/41"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5103,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/41",
+					"label": "41",
+					"height": 3920
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00042.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5115,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00042.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/42"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5115,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/42",
+					"label": "42",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00043.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5094,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00043.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/43"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5094,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/43",
+					"label": "43",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00044.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5111,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00044.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/44"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5111,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/44",
+					"label": "44",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00045.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5121,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00045.jp2",
+								"height": 3910
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/45"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5121,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/45",
+					"label": "45",
+					"height": 3910
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00046.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5112,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00046.jp2",
+								"height": 3917
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/46"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5112,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/46",
+					"label": "46",
+					"height": 3917
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00047.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5116,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00047.jp2",
+								"height": 3905
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/47"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5116,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/47",
+					"label": "47",
+					"height": 3905
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00048.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5102,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00048.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/48"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5102,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/48",
+					"label": "48",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00049.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5123,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00049.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/49"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5123,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/49",
+					"label": "49",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00050.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5136,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00050.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/50"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5136,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/50",
+					"label": "50",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00051.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5133,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00051.jp2",
+								"height": 3896
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/51"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5133,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/51",
+					"label": "51",
+					"height": 3896
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00052.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5119,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00052.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/52"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5119,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/52",
+					"label": "52",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00053.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5126,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00053.jp2",
+								"height": 3907
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/53"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5126,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/53",
+					"label": "53",
+					"height": 3907
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00054.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5111,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00054.jp2",
+								"height": 3915
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/54"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5111,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/54",
+					"label": "54",
+					"height": 3915
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00055.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5129,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00055.jp2",
+								"height": 3917
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/55"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5129,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/55",
+					"label": "55",
+					"height": 3917
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00056.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5150,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00056.jp2",
+								"height": 3905
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/56"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5150,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/56",
+					"label": "56",
+					"height": 3905
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00057.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5148,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00057.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/57"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5148,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/57",
+					"label": "57",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00058.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5142,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00058.jp2",
+								"height": 3922
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/58"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5142,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/58",
+					"label": "58",
+					"height": 3922
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00059.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5139,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00059.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/59"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5139,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/59",
+					"label": "59",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00060.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5149,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00060.jp2",
+								"height": 3912
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/60"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5149,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/60",
+					"label": "60",
+					"height": 3912
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00061.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5141,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00061.jp2",
+								"height": 3910
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/61"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5141,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/61",
+					"label": "61",
+					"height": 3910
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00062.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5139,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00062.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/62"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5139,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/62",
+					"label": "62",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00063.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5146,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00063.jp2",
+								"height": 3917
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/63"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5146,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/63",
+					"label": "63",
+					"height": 3917
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00064.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5154,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00064.jp2",
+								"height": 3921
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/64"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5154,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/64",
+					"label": "64",
+					"height": 3921
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00065.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5157,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00065.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/65"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5157,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/65",
+					"label": "65",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00066.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5140,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00066.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/66"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5140,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/66",
+					"label": "66",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00067.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5161,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00067.jp2",
+								"height": 3911
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/67"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5161,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/67",
+					"label": "67",
+					"height": 3911
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00068.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5169,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00068.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/68"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5169,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/68",
+					"label": "68",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00069.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5127,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00069.jp2",
+								"height": 3923
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/69"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5127,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/69",
+					"label": "69",
+					"height": 3923
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00070.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5167,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00070.jp2",
+								"height": 3930
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/70"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5167,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/70",
+					"label": "70",
+					"height": 3930
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00071.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5169,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00071.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/71"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5169,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/71",
+					"label": "71",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00072.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5169,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00072.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/72"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5169,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/72",
+					"label": "72",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00073.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5155,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00073.jp2",
+								"height": 3919
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/73"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5155,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/73",
+					"label": "73",
+					"height": 3919
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00074.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5155,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00074.jp2",
+								"height": 3916
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/74"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5155,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/74",
+					"label": "74",
+					"height": 3916
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00075.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5154,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00075.jp2",
+								"height": 3930
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/75"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5154,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/75",
+					"label": "75",
+					"height": 3930
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00076.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5179,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00076.jp2",
+								"height": 3927
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/76"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5179,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/76",
+					"label": "76",
+					"height": 3927
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00077.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5168,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00077.jp2",
+								"height": 3931
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/77"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5168,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/77",
+					"label": "77",
+					"height": 3931
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00078.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5184,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00078.jp2",
+								"height": 3926
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/78"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5184,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/78",
+					"label": "78",
+					"height": 3926
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00079.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5168,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00079.jp2",
+								"height": 3927
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/79"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5168,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/79",
+					"label": "79",
+					"height": 3927
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00080.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5166,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00080.jp2",
+								"height": 3936
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/80"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5166,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/80",
+					"label": "80",
+					"height": 3936
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00081.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5164,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00081.jp2",
+								"height": 3945
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/81"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5164,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/81",
+					"label": "81",
+					"height": 3945
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00082.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5171,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00082.jp2",
+								"height": 3947
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/82"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5171,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/82",
+					"label": "82",
+					"height": 3947
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00083.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5166,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00083.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/83"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5166,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/83",
+					"label": "83",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00084.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5162,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00084.jp2",
+								"height": 3943
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/84"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5162,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/84",
+					"label": "84",
+					"height": 3943
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00085.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5147,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00085.jp2",
+								"height": 3936
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/85"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5147,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/85",
+					"label": "85",
+					"height": 3936
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00086.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5182,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00086.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/86"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5182,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/86",
+					"label": "86",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00087.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5166,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00087.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/87"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5166,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/87",
+					"label": "87",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00088.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5160,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00088.jp2",
+								"height": 3945
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/88"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5160,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/88",
+					"label": "88",
+					"height": 3945
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00089.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5159,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00089.jp2",
+								"height": 3930
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/89"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5159,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/89",
+					"label": "89",
+					"height": 3930
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00090.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5160,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00090.jp2",
+								"height": 3929
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/90"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5160,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/90",
+					"label": "90",
+					"height": 3929
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00091.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5158,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00091.jp2",
+								"height": 3924
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/91"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5158,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/91",
+					"label": "91",
+					"height": 3924
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00092.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5158,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00092.jp2",
+								"height": 3929
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/92"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5158,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/92",
+					"label": "92",
+					"height": 3929
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00093.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5166,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00093.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/93"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5166,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/93",
+					"label": "93",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00094.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5158,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00094.jp2",
+								"height": 3930
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/94"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5158,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/94",
+					"label": "94",
+					"height": 3930
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00095.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5151,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00095.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/95"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5151,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/95",
+					"label": "95",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00096.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5153,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00096.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/96"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5153,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/96",
+					"label": "96",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00097.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5165,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00097.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/97"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5165,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/97",
+					"label": "97",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00098.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5174,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00098.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/98"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5174,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/98",
+					"label": "98",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00099.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5159,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00099.jp2",
+								"height": 3931
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/99"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5159,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/99",
+					"label": "99",
+					"height": 3931
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00100.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5162,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00100.jp2",
+								"height": 3938
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/100"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5162,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/100",
+					"label": "100",
+					"height": 3938
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00101.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5165,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00101.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/101"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5165,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/101",
+					"label": "101",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00102.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5151,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00102.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/102"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5151,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/102",
+					"label": "102",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00103.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5171,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00103.jp2",
+								"height": 3920
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/103"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5171,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/103",
+					"label": "103",
+					"height": 3920
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00104.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5143,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00104.jp2",
+								"height": 3924
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/104"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5143,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/104",
+					"label": "104",
+					"height": 3924
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00105.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5148,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00105.jp2",
+								"height": 3936
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/105"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5148,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/105",
+					"label": "105",
+					"height": 3936
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00106.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5157,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00106.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/106"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5157,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/106",
+					"label": "106",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00107.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5153,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00107.jp2",
+								"height": 3928
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/107"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5153,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/107",
+					"label": "107",
+					"height": 3928
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00108.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5157,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00108.jp2",
+								"height": 3944
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/108"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5157,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/108",
+					"label": "108",
+					"height": 3944
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00109.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5133,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00109.jp2",
+								"height": 3955
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/109"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5133,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/109",
+					"label": "109",
+					"height": 3955
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00110.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5148,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00110.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/110"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5148,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/110",
+					"label": "110",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00111.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5130,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00111.jp2",
+								"height": 3935
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/111"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5130,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/111",
+					"label": "111",
+					"height": 3935
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00112.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5132,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00112.jp2",
+								"height": 3944
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/112"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5132,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/112",
+					"label": "112",
+					"height": 3944
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00113.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5150,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00113.jp2",
+								"height": 3930
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/113"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5150,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/113",
+					"label": "113",
+					"height": 3930
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00114.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5136,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00114.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/114"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5136,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/114",
+					"label": "114",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00115.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5130,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00115.jp2",
+								"height": 3949
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/115"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5130,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/115",
+					"label": "115",
+					"height": 3949
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00116.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5135,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00116.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/116"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5135,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/116",
+					"label": "116",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00117.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5134,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00117.jp2",
+								"height": 3945
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/117"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5134,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/117",
+					"label": "117",
+					"height": 3945
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00118.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5135,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00118.jp2",
+								"height": 3927
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/118"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5135,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/118",
+					"label": "118",
+					"height": 3927
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00119.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5133,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00119.jp2",
+								"height": 3944
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/119"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5133,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/119",
+					"label": "119",
+					"height": 3944
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00120.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5130,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00120.jp2",
+								"height": 3941
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/120"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5130,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/120",
+					"label": "120",
+					"height": 3941
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00121.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5125,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00121.jp2",
+								"height": 3949
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/121"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5125,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/121",
+					"label": "121",
+					"height": 3949
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00122.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5130,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00122.jp2",
+								"height": 3958
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/122"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5130,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/122",
+					"label": "122",
+					"height": 3958
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00123.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5113,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00123.jp2",
+								"height": 3941
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/123"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5113,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/123",
+					"label": "123",
+					"height": 3941
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00124.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5105,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00124.jp2",
+								"height": 3958
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/124"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5105,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/124",
+					"label": "124",
+					"height": 3958
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00125.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5157,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00125.jp2",
+								"height": 3932
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/125"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5157,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/125",
+					"label": "125",
+					"height": 3932
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00126.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5131,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00126.jp2",
+								"height": 3961
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/126"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5131,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/126",
+					"label": "126",
+					"height": 3961
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00127.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5122,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00127.jp2",
+								"height": 3974
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/127"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5122,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/127",
+					"label": "127",
+					"height": 3974
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00128.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5139,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00128.jp2",
+								"height": 4004
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/128"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5139,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/128",
+					"label": "128",
+					"height": 4004
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00129.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5131,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00129.jp2",
+								"height": 3987
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/129"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5131,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/129",
+					"label": "129",
+					"height": 3987
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00130.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5127,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00130.jp2",
+								"height": 3974
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/130"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5127,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/130",
+					"label": "130",
+					"height": 3974
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00131.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5122,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00131.jp2",
+								"height": 3966
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/131"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5122,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/131",
+					"label": "131",
+					"height": 3966
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00132.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5152,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00132.jp2",
+								"height": 3953
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/132"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5152,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/132",
+					"label": "132",
+					"height": 3953
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00133.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5122,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00133.jp2",
+								"height": 3970
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/133"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5122,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/133",
+					"label": "133",
+					"height": 3970
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00134.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5114,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00134.jp2",
+								"height": 3957
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/134"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5114,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/134",
+					"label": "134",
+					"height": 3957
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00135.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5098,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00135.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/135"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5098,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/135",
+					"label": "135",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00136.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5144,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00136.jp2",
+								"height": 3970
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/136"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5144,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/136",
+					"label": "136",
+					"height": 3970
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00137.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5131,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00137.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/137"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5131,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/137",
+					"label": "137",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00138.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5110,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00138.jp2",
+								"height": 3966
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/138"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5110,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/138",
+					"label": "138",
+					"height": 3966
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00139.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5144,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00139.jp2",
+								"height": 3961
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/139"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5144,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/139",
+					"label": "139",
+					"height": 3961
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00140.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5135,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00140.jp2",
+								"height": 3953
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/140"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5135,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/140",
+					"label": "140",
+					"height": 3953
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00141.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5122,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00141.jp2",
+								"height": 3957
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/141"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5122,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/141",
+					"label": "141",
+					"height": 3957
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00142.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5118,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00142.jp2",
+								"height": 3961
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/142"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5118,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/142",
+					"label": "142",
+					"height": 3961
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00143.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5148,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00143.jp2",
+								"height": 3966
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/143"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5148,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/143",
+					"label": "143",
+					"height": 3966
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00144.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5131,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00144.jp2",
+								"height": 3978
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/144"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5131,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/144",
+					"label": "144",
+					"height": 3978
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00145.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5131,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00145.jp2",
+								"height": 3987
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/145"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5131,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/145",
+					"label": "145",
+					"height": 3987
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00146.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5156,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00146.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/146"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5156,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/146",
+					"label": "146",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00147.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5110,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00147.jp2",
+								"height": 3936
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/147"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5110,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/147",
+					"label": "147",
+					"height": 3936
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00148.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5144,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00148.jp2",
+								"height": 3940
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/148"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5144,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/148",
+					"label": "148",
+					"height": 3940
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00149.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 5000,
+								"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005-000-00149.jp2",
+								"height": 3966
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/149"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 5000,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/canvas/149",
+					"label": "149",
+					"height": 3966
 				}
-			]
+			],
+			"@type": "sc:Sequence",
+			"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00709-00005/sequence",
+			"label": "Current Page Order"
 		}
 	],
-	"viewingDirection": "left-to-right"
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"seeAlso": "https://services.cudl.lib.cam.ac.uk/v1/metadata/tei/MS-FJ-00709-00005/"
 }
